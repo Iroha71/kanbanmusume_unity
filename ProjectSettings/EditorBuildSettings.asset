@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01_Scenes/SelectPartner.unity
     guid: 572dc98b2199fe347a4231e904d6c5ce
+  - enabled: 1
+    path: Assets/01_Scenes/TaskMenu.unity
+    guid: b1842529e26281247b3619129618ae1c
+  - enabled: 1
+    path: Assets/Room.unity
+    guid: 45a6423bd1f679e4b9a6d3feefa4cccc
   m_configObjects: {}
