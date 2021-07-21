@@ -48,3 +48,6 @@ sysinfo.txt
 crashlytics-build.properties
 UserSettings
 .vsconfig
+
+save.json
+save.json.meta
