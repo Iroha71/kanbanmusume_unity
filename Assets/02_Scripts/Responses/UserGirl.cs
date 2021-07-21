@@ -10,4 +10,5 @@ public class UserGirl
     public int level;
     public int like_rate;
     public int exp;
+    public int require_exp;
 }
