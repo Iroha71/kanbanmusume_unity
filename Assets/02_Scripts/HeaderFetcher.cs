@@ -32,7 +32,7 @@ public class HeaderFetcher : MonoBehaviour
         this.partnerName.text = user.partner.girl.name;
         this.exp.value = NormalizeValue4Slider(user.partner.exp, user.partner.require_exp);
         this.likeRate.value = NormalizeValue4Slider(user.partner.like_rate, 100);
-        this.level.text = $"Lv.{ level }";
+        this.level.text = $"Lv.{ user.partner.level }";
     }
 
     private float NormalizeValue4Slider(int curValue, int maxValue)
