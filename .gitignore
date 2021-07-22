@@ -51,3 +51,10 @@ UserSettings
 
 save.json
 save.json.meta
+
+UniGLTF/
+VRM/
+VRMShaders/
+UniGLTF.meta
+VRM.meta
+VRMShaders.meta
